@@ -15,7 +15,8 @@ Inicialmente, el flujo de trabajo que comprende el analisis de datos consta de 7
 - Presentación de resultados.
 
 Si bien, inicialmente esto se presenta de forma secuencial; en realidad presenta un esquema ciclico en el que pueden interactuar varias fases entre si, tal como se presenta en la Fig. :
-<img src=https://www.tibco.com/sites/tibco/files/media_entity/2019-03/data_science-diagram.svg >
+
+![] (https://www.tibco.com/sites/tibco/files/media_entity/2019-03/data_science-diagram.svg)
 
 
 
