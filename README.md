@@ -1548,23 +1548,7 @@ def conf_mat_acc(modelo):
     plt.show()
 
 ```
-
-
-```python
-conf_mat_acc(logreg)
-```
-
-    accuracy:  0.79
-    
-
-    c:\Users\Camilo\anaconda3\envs\Project_titanic\lib\site-packages\sklearn\utils\deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
-      warnings.warn(msg, category=FutureWarning)
-    
-
-
-    
-![png](output_68_2.png)
-    
+   
 
 
 
